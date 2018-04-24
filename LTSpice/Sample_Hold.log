@@ -1,4 +1,4 @@
-Circuit: * C:\users\maximilian.wagenbach\My Documents\LTspiceXVII\Sample_Hold.asc
+Circuit: * Z:\Users\maximilian.wagenbach\Repos\Downsampler\LTSpice\Sample_Hold.asc
 
 Direct Newton iteration failed to find .op point.  (Use ".option noopiter" to skip.)
 Starting Gmin stepping
@@ -45,21 +45,21 @@ Source Step = 93.9394%
 Source stepping succeeded in finding the operating point.
 
 
-Date: Mon Feb 12 19:03:41 2018
-Total elapsed time: 0.431 seconds.
+Date: Tue Apr 24 12:36:21 2018
+Total elapsed time: 17.563 seconds.
 
 tnom = 27
 temp = 27
 method = modified trap
-totiter = 11743
-traniter = 5407
-tranpoints = 2024
-accept = 1764
-rejected = 260
-matrix size = 28
-fillins = 22
+totiter = 249342
+traniter = 242884
+tranpoints = 59603
+accept = 44165
+rejected = 15438
+matrix size = 41
+fillins = 32
 solver = Normal
-Thread vector: 49.6/7.3[2] 1.9/2.6[1] 1.9/4.5[1] 0.6/1.5[1]  2592/500
-Matrix Compiler1: 1.68 KB object code size  0.7/0.3/[0.2]
-Matrix Compiler2: off  [0.4]/0.5/0.9
+Thread vector: 52.9/18.7[2] 4.5/18.3[1] 2.9/31.6[1] 0.8/43.3[1]  2592/500
+Matrix Compiler1: 2.92 KB object code size  1.7/0.9/[0.7]
+Matrix Compiler2: 4.02 KB object code size  1.6/4.6/[0.9]
 
