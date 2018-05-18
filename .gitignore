@@ -1,2 +1,7 @@
 # PyCharm files
 .idea/
+
+# LTSpice simulation files
+LTSpice/*.log
+LTSpice/*.plt
+LTSpice/*.raw
